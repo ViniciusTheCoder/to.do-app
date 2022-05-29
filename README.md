@@ -22,7 +22,7 @@ Some functions are still unable 🔒:
 </table>
 
 ## How to run
-> Well my friend, the only way you can do this is cloning this repository, dont't forget certificate your Node version, needs to be lower than 17.
+> Well my friend, the only way you can do this is cloning this repository, don't forget certificate your Node version, needs to be lower than 17.
 
 ## How actually is:
 <div style="display: inline_block"><br>
