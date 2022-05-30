@@ -23,6 +23,8 @@ Some functions are still unable 🔒:
 
 ## How to run
 > Well my friend, the only way you can do this is cloning this repository, don't forget certificate your Node version, needs to be lower than 17.
+> After the clone, run the command "yarn" to install yarn in your dependencies.
+> Last, use the command "yarn android" to run the app.
 
 ## How actually is:
 <div style="display: inline_block"><br>
