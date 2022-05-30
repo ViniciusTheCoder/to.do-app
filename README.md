@@ -1,18 +1,17 @@
 <h1> To-do app 📱📋 </h1>
 
-> Status: Developing ⚙️
+> Status: Developed ⚙️
 
-This mobile app is beign developed as part of Ignite Rocketsteat React-Native trail. 
+This mobile app was developed as part of Ignite Rocketsteat React-Native trail. 
 
 ### His ordinary options are already up to run. It's a to-do app, you can:
 - Add daily tasks; 
 - Remove them if u won't do it; 
 - Mark tasks already completed;
+- Edit already created tasks;
+- Now, if you touch the button to delete a task, a alert will ask you if u really wanna delete the task;
 - Besides this, if you look at the top right corner, has a task counter accordin' to what has been added;
 
-Some functions are still unable 🔒:
-- As the project is still in development, you may miss some functions;
-- I'm still workin' on to bring more tools, like the option to edit tasks that already exists and alerts for the app, so be pacient, this overcharged student will bring this things 🤗.
 
 ## Technologies used:
 
