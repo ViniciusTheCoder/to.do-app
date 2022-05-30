@@ -25,5 +25,7 @@ This mobile app was developed as part of Ignite Rocketsteat React-Native trail.
 > After the clone, run the command "yarn" to install yarn in your dependencies.
 > Last, use the command "yarn android" to run the app.
 
+## How it looks
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/100241274/171068354-f5c40954-dab8-4219-8afd-8ad67d8ce75a.gif)
 
