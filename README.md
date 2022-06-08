@@ -1,6 +1,6 @@
 <h1> To-do app 📱📋 </h1>
 
-> Status: Developed ⚙️
+> Status: Developed ✅✅✅
 
 This mobile app was developed as part of Ignite Rocketsteat React-Native trail. 
 
